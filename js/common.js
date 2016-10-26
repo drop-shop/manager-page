@@ -11,8 +11,8 @@ $(function() {
 
 		vat = 0.9;
 		dostavka = 36;
-		kurs = 7;
-		interes = 1.25;
+		kurs = 6.7;
+		interes = 1.2;
 
 		function formula (p, p1) {
 
